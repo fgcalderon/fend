@@ -1,2 +1,2 @@
 # fend
-All project of my FrontEnd Nanodegree 
+All projects of my FrontEnd Nanodegree 
